@@ -1,0 +1,3 @@
+#!/bin/sh
+/System/Library/PrivateFrameworks/GoogleContactSync.framework/Versions/A/Resources/gconsync --oneshot --sync com.google.ContactSync --entitynames com.apple.contacts.Contact,com.apple.contacts.Email Address,com.apple.contacts.IM,com.apple.contacts.Phone Number,com.apple.contacts.Street Address
+#/System/Library/PrivateFrameworks/DotMacSyncManager.framework/Versions/A/Resources/dotmacsyncclient sync
