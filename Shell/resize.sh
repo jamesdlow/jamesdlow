@@ -1,0 +1,11 @@
+#!/bin/sh
+sips -z 2688 1242 1242x2208bb-1.png
+sips -z 2688 1242 1242x2208bb-2.png
+sips -z 2688 1242 1242x2208bb-3.png
+sips -z 2688 1242 1242x2208bb-4.png
+sips -z 2688 1242 1242x2208bb.png
+sips -z 2732 2048 768x1024bb-1.png
+sips -z 2732 2048 768x1024bb-2.png
+sips -z 2732 2048 768x1024bb-3.png
+sips -z 2732 2048 768x1024bb-4.png
+sips -z 2732 2048 768x1024bb.png
